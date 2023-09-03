@@ -21,5 +21,9 @@ namespace LogginginAspDOTNET.Service
             }
 
         }
+        public void ChangeService()
+        {
+            Console.WriteLine("this is change service");
+        }
     }
 }
