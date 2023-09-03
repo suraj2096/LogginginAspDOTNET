@@ -14,5 +14,11 @@ namespace LogginginAspDOTNET.Controllers
 
             return View();
         }
+        public ActionResult Home()
+        {
+            ViewBag.Title = "Home Page";
+
+            return View();
+        }
     }
 }

@@ -21,5 +21,18 @@ namespace LogginginAspDOTNET.Service
             }
 
         }
+        // Chnage Branch code ..
+        public void ChangeData()
+        {
+            Console.WriteLine("this is change data");
+            // here we will create one branch changeService.
+        }
+        
+
+        public void ImplementLOg()
+        {
+            Console.WriteLine("this is implement log ");
+        }
+
     }
 }
