@@ -1,0 +1,18 @@
+Nlog Notes:
+
+1. It allows us to log in file,database and event viewer.
+
+
+Where to log:
+1. Files
+2. Event Viewer log
+3. Database
+4. Network
+4. Email
+6. Console.
+
+
+1. Install the Nlog appplication that is 4.7.1 according to your .net framework extension
+2. Add this to your web. config file .............
+
+
