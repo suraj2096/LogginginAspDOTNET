@@ -21,5 +21,13 @@ namespace LogginginAspDOTNET.Service
             }
 
         }
+        public void Change2()
+        {
+            Console.WriteLine("this is change 2 ");
+        }
+        public void Change1()
+        {
+            Console.WriteLine("this is change 1");
+        }
     }
 }
