@@ -1,0 +1,2 @@
+2023-09-02 18:13:58.2538|INFO|LogginginAspDOTNET.Controllers.ValuesController|Hell You have visited the Index view
+02-09-2023 18:13:58
