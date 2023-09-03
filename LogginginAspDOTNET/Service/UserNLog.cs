@@ -34,5 +34,9 @@ namespace LogginginAspDOTNET.Service
             Console.WriteLine("this is implement log ");
         }
 
+        public void ChangeService()
+        {
+            Console.WriteLine("this is change service");
+        }
     }
 }
