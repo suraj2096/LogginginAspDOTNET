@@ -27,7 +27,7 @@ namespace LogginginAspDOTNET.Controllers
             }
             catch (Exception ex)
             {
-
+                logger.Info(ex);
             }
             finally
             {

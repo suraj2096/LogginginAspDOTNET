@@ -13,11 +13,13 @@ namespace LogginginAspDOTNET.Service
             try
             {
                 var data = "hello";
-                throw new Exception("there is an error");
+                logger.Info("hello from function");
+                throw new Exception("hello");
             }
             catch (Exception ex)
             {
-                logger.Error(ex);
+                throw new Exception("there is an error");
+                //logger.Error(ex);
             }
 
         }
